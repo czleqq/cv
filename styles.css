@@ -1,0 +1,29 @@
+  body   {
+        background-color: #DEF5E5;
+         }
+ hr 
+        {
+       background-color: #DEF5E5;
+       border-style: dotted none none;
+       border-color: #FFD56F;
+       height: 5px;
+       border-width: 5px;
+       width: 15%;                       
+        }
+h1 
+    {
+        color: #213000;
+       /* font-style: oblique;*/
+    }
+h2
+    {
+        color: #213000;
+    }
+h3
+    {
+        color: #213000;
+    }
+h4 
+    {
+        color: #213000;
+    }
